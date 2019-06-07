@@ -1,0 +1,12 @@
+D:\RSAApp\RSAApp\obj\Debug\RSAApp.csprojAssemblyReference.cache
+D:\RSAApp\RSAApp\obj\Debug\RSAApp.frmMaHoaVanBan.resources
+D:\RSAApp\RSAApp\obj\Debug\RSAApp.frmMain.resources
+D:\RSAApp\RSAApp\obj\Debug\RSAApp.Properties.Resources.resources
+D:\RSAApp\RSAApp\obj\Debug\RSAApp.csproj.GenerateResource.cache
+D:\RSAApp\RSAApp\obj\Debug\RSAApp.csproj.CoreCompileInputs.cache
+D:\RSAApp\RSAApp\bin\Debug\RSAApp.exe.config
+D:\RSAApp\RSAApp\bin\Debug\RSAApp.exe
+D:\RSAApp\RSAApp\bin\Debug\RSAApp.pdb
+D:\RSAApp\RSAApp\obj\Debug\RSAApp.frmMaHoaSo.resources
+D:\RSAApp\RSAApp\obj\Debug\RSAApp.exe
+D:\RSAApp\RSAApp\obj\Debug\RSAApp.pdb
